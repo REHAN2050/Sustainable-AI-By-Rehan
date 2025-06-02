@@ -31,4 +31,4 @@ Class 12, Jharkhand, India
 ---
 
 🗓️ Idea documented: June 2025  
-📎 [Download PDF](./https://drive.google.com/file/d/12oosOT2qHZr3sMm2pPOeJAQqL-Z2ceTz/view?usp=drivesdk)
+🔗 Download Sustainable_AI_Rehan_Manifesto.pdf
